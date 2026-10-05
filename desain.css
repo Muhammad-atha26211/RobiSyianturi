@@ -1,0 +1,54 @@
+h1 {
+  font-size: 35px;
+  font-family: arial;
+  text-align: center;
+  background-color: navy;
+  color: white;
+  padding: 5px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.kotak {
+  background-color: rgb(146, 198, 233);
+  border: 3px solid black;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.gambar {
+  width: 37%;
+  float: left;
+  margin-right: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 5%;
+}
+
+p {
+  font-size: 22px;
+  text-align: justify;
+  text-indent: 60px;
+  line-height: 1.4;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: left;
+  margin-left: 1.5%;
+  line-height: 0.7;
+}
+
+.subjudul {
+  font-size: 30px;
+  text-align: left;
+  margin-left: 490px;
+  line-height: 0.7;
+}
+
+.nama {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: arial;
+}
+
